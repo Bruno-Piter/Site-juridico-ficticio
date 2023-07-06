@@ -1,6 +1,6 @@
 # Site-juridico-ficticio
 
-Neste projeto, adicionamos uma tonalidade de fundo enquanto também inserimos e estilizamos uma imagem como plano de fundo para um elemento.
+tonalidade de fundo e estilização de uma imagem como plano de fundo para um elemento.
 
 
 
